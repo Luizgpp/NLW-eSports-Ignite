@@ -1,4 +1,4 @@
-# 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+# 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 # NLW eSports Ignite
 
 Este projeto foi desenvolvido durante a semana NLW (Next Level Week) da Rocketseat (11 de setembro de 2022). O projeto se trata de uma aplicação web onde o usuário consegue criar anúncios de alguns jogos para poder encontrar um duo!
